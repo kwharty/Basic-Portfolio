@@ -1,0 +1,60 @@
+header {
+    background-color: #ffffff;
+    border-color: #cccccc;
+    width: 960px;   
+    font: #777777;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    text-align: center;
+    font-size: 18px;
+    margin: 0;
+    margin-left: 0px;
+    padding: 0;
+    
+    
+
+
+
+
+}
+
+#name {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    width: 960px;
+    font: #777777;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    text-align: center;
+    font-size: 18px;
+    margin: 0;
+    margin-left: 0px;
+    padding: 0;
+    float: left;
+    
+
+
+
+
+}
+
+.right {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    width: 960px;
+    font: #777777;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    text-align: center;
+    font-size: 18px;
+    margin: 0;
+    margin-left: 0px;
+    padding: 0;
+    float: right;
+    display: inline;
+
+}
+
+#pic {
+
+    width: 5px;
+    margin: 75px;
+
+}
